@@ -1,0 +1,1 @@
+# Sentiment-Heuristic-Intent-Tracking-Capital-Aquiring-Stock-Helper
